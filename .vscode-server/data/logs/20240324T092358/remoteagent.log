@@ -1,0 +1,21 @@
+2024-03-24 09:23:59.046 [info] 
+
+
+
+
+2024-03-24 09:23:59.081 [info] Extension host agent started.
+2024-03-24 09:23:59.380 [info] [127.0.0.1][121af413][ManagementConnection] New connection established.
+2024-03-24 09:24:02.407 [info] [127.0.0.1][431d780c][ExtensionHostConnection] New connection established.
+2024-03-24 09:24:02.611 [info] [127.0.0.1][431d780c][ExtensionHostConnection] <587> Launched Extension Host Process.
+2024-03-24 09:24:09.261 [info] Getting Manifest... esbenp.prettier-vscode
+2024-03-24 09:24:09.834 [info] Installing extension: esbenp.prettier-vscode
+2024-03-24 09:24:19.136 [info] Extension signature is verified: esbenp.prettier-vscode
+2024-03-24 09:24:19.794 [info] Extracted extension to file:///home/sachio/.vscode-server/extensions/esbenp.prettier-vscode-10.4.0: esbenp.prettier-vscode
+2024-03-24 09:24:19.801 [info] Renamed to /home/sachio/.vscode-server/extensions/esbenp.prettier-vscode-10.4.0
+2024-03-24 09:24:19.823 [info] Extracting extension completed. esbenp.prettier-vscode
+2024-03-24 09:24:19.838 [info] Extension installed successfully: esbenp.prettier-vscode
+2024-03-24 09:24:19.890 [info] Marked extension as uninstalled esbenp.prettier-vscode-10.1.0
+2024-03-24 12:49:08.531 [info] [127.0.0.1][121af413][ManagementConnection] The client has reconnected.
+2024-03-24 12:49:17.838 [info] [127.0.0.1][431d780c][ExtensionHostConnection] The client has reconnected.
+2024-03-24 14:50:30.354 [info] [127.0.0.1][121af413][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-24 14:50:30.857 [info] [127.0.0.1][431d780c][ExtensionHostConnection] <587> Extension Host Process exited with code: 0, signal: null.

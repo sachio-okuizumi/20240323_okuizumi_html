@@ -1,0 +1,46 @@
+2024-03-16 09:31:02.389 [info] ログ レベル: Info
+2024-03-16 09:31:02.389 [info] Git の検証が検出されました: "git"
+2024-03-16 09:31:02.389 [info] "git" から Git "2.34.1" を使用しています
+2024-03-16 09:31:02.389 [info] > git rev-parse --show-toplevel [109ms]
+2024-03-16 09:31:02.389 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-16 09:31:02.389 [info] > git rev-parse --show-toplevel [148ms]
+2024-03-16 09:31:02.389 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-16 09:31:02.389 [info] > git rev-parse --show-toplevel [7ms]
+2024-03-16 09:31:02.389 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-16 09:33:34.995 [info] > git rev-parse --show-toplevel [12ms]
+2024-03-16 09:33:34.995 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-16 10:52:26.771 [info] > git rev-parse --show-toplevel [20ms]
+2024-03-16 10:52:26.773 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-16 10:52:35.647 [info] > git rev-parse --show-toplevel [5ms]
+2024-03-16 10:52:35.648 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-16 10:52:47.828 [info] > git rev-parse --show-toplevel [4ms]
+2024-03-16 10:52:47.828 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-16 10:53:04.530 [info] > git rev-parse --show-toplevel [4ms]
+2024-03-16 10:53:04.530 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-16 12:01:30.898 [info] > git rev-parse --show-toplevel [13ms]
+2024-03-16 12:01:30.899 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-16 12:01:38.068 [info] > git rev-parse --show-toplevel [4ms]
+2024-03-16 12:01:38.068 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-16 18:16:09.997 [info] > git rev-parse --show-toplevel [4ms]
+2024-03-16 18:16:10.024 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-03-16 18:16:10.098 [info] Open repository: /home/sachio/coachtech
+2024-03-16 18:16:10.123 [info] > git config --get commit.template [4ms]
+2024-03-16 18:16:10.146 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-03-16 18:16:10.187 [info] > git status -z -uall [7ms]
+2024-03-16 18:16:10.256 [info] > git config --get commit.template [13ms]
+2024-03-16 18:16:10.257 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-03-16 18:16:10.337 [info] > git status -z -uall [65ms]
+2024-03-16 18:17:09.967 [info] > git check-ignore -v -z --stdin [3ms]
+2024-03-16 18:17:10.499 [info] > git config --get commit.template [12ms]
+2024-03-16 18:17:10.500 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-03-16 18:17:10.511 [info] > git status -z -uall [2ms]
+2024-03-16 18:18:09.405 [info] > git show --textconv :html-css/0-11/index.html [19ms]
+2024-03-16 18:18:09.406 [info] > git ls-files --stage -- /home/sachio/coachtech/html-css/0-11/index.html [10ms]
+2024-03-16 18:18:09.422 [info] > git cat-file -s 03b15a98b58a82ef737faf987e220594d558ef20 [7ms]
+2024-03-16 18:18:10.381 [info] > git config --get commit.template [1ms]
+2024-03-16 18:18:10.390 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-03-16 18:18:10.401 [info] > git status -z -uall [2ms]
+2024-03-16 18:19:09.409 [info] > git ls-files --stage -- /home/sachio/coachtech/html-css/0-11/index.html [2ms]
+2024-03-16 18:19:09.421 [info] > git cat-file -s 03b15a98b58a82ef737faf987e220594d558ef20 [1ms]
+2024-03-16 18:20:09.406 [info] > git show --textconv :html-css/0-11/index.html [7ms]
+2024-03-16 18:22:09.883 [info] > git check-ignore -v -z --stdin [1ms]

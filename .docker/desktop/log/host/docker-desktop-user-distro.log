@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2024-03-03T04:30:43.764160700Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/tw-harima/.docker/contexts
+[2024-03-03T04:30:43.799231900Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/tw-harima/.docker/contexts os.Symlink <HOME>/.docker/contexts -> /mnt/c/Users/tw-harima/.docker/contexts
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2024-03-03T04:30:44.583981100Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/tw-harima/.aws, linkPath = <HOME>/.aws
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2024-03-03T04:30:45.305424101Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/tw-harima/.azure, linkPath = <HOME>/.azure
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2024-03-03T04:30:46.007036711Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/tw-harima/.docker/features.json, linkPath = ~/.docker/features.json
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2024-03-04T22:21:53.886757762Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/tw-harima/.docker/contexts
+[2024-03-04T22:21:53.895101709Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/tw-harima/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2024-03-04T22:21:54.379154737Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/tw-harima/.aws, linkPath = <HOME>/.aws
+[2024-03-04T22:21:54.385076402Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/tw-harima/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2024-03-04T22:21:54.947673151Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/tw-harima/.azure, linkPath = <HOME>/.azure
+[2024-03-04T22:21:54.969883552Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/tw-harima/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2024-03-04T22:21:55.461009369Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/tw-harima/.docker/features.json, linkPath = ~/.docker/features.json
