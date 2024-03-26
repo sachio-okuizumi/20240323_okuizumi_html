@@ -87,3 +87,46 @@ cd ~/coachtech/html-css/html-test
 cd ~/coachtech/html-css/20240324_okuizumi_html
 20240324_okuizumi_html
 git@github.com:sachio-okuizumi/20240324_okuizumi_html.git
+echo "# 20240323_okuizumi_html" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:sachio-okuizumi/20240323_okuizumi_html.git
+git push -u origin main
+git add -A
+git commit -m "任意のメッセージ"
+git push
+git add -A
+git commit -m "任意のメッセージ"
+git push
+cd coachtech
+cd html-css
+mkdir css
+touch css/style.css
+code .
+ls
+cd 20240323_okuizumi_html
+ls -aa
+git init
+echo "# test2024" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git@github.com:sachio-okuizumi/20240323_okuizumi_html.git
+git push -u origin main
+ls -a
+git add -A
+git commit -m "任意のメッセージ"
+git push
+git reset --soft HEAD^
+git reset
+git status
+git add -A
+git commit -m "html演習問題実装"
+git push -u origin main
+git remote add origin git@github.com:sachio-okuizumi/20240323_okuizumi_html.git
+git push -u origin main
+git remote -v
+git push -f origin main
